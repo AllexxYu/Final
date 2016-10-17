@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+-<V8Exch:_1CV8DtUD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:v8="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:core="http://v8.1c.ru/data" xmlns:V8Exch="http://www.1c.ru/V8/1CV8DtUD/">
+
+
+-<V8Exch:Data>
+
+
+-<v8:CatalogObject.Товары>
+
+<v8:Ref xsi:type="v8:CatalogRef.Товары">a67ab66e-898c-11e6-8b89-00265ea2eb57</v8:Ref>
+
+<v8:DeletionMark>false</v8:DeletionMark>
+
+<v8:Code>000000001</v8:Code>
+
+<v8:Description>Мяч</v8:Description>
+
+<v8:НормаРеализации>0</v8:НормаРеализации>
+
+<v8:Премия>200</v8:Премия>
+
+</v8:CatalogObject.Товары>
+
+
+-<v8:CatalogObject.Товары>
+
+<v8:Ref xsi:type="v8:CatalogRef.Товары">fcb4b839-898e-11e6-8b89-00265ea2eb57</v8:Ref>
+
+<v8:DeletionMark>false</v8:DeletionMark>
+
+<v8:Code>000000002</v8:Code>
+
+<v8:Description>Велосипед</v8:Description>
+
+<v8:НормаРеализации>0</v8:НормаРеализации>
+
+<v8:Премия>1000</v8:Премия>
+
+</v8:CatalogObject.Товары>
+
+</V8Exch:Data>
+
+<PredefinedData/>
+
+</V8Exch:_1CV8DtUD>

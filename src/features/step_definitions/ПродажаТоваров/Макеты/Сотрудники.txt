@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+-<V8Exch:_1CV8DtUD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:v8="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:core="http://v8.1c.ru/data" xmlns:V8Exch="http://www.1c.ru/V8/1CV8DtUD/">
+
+
+-<V8Exch:Data>
+
+
+-<v8:CatalogObject.Сотрудники>
+
+<v8:IsFolder>false</v8:IsFolder>
+
+<v8:Ref xsi:type="v8:CatalogRef.Сотрудники">14a86285-7dd8-11e6-8b87-00265ea2eb57</v8:Ref>
+
+<v8:DeletionMark>false</v8:DeletionMark>
+
+<v8:Parent xsi:type="v8:CatalogRef.Сотрудники">b9a73497-8d90-11e6-8b8a-00265ea2eb57</v8:Parent>
+
+<v8:Code>000000001</v8:Code>
+
+<v8:Description>Иванов</v8:Description>
+
+<v8:ДатаРождения>1980-01-01T00:00:00</v8:ДатаРождения>
+
+</v8:CatalogObject.Сотрудники>
+
+
+-<v8:CatalogObject.Сотрудники>
+
+<v8:IsFolder>false</v8:IsFolder>
+
+<v8:Ref xsi:type="v8:CatalogRef.Сотрудники">95f36f82-8d8f-11e6-8b8a-00265ea2eb57</v8:Ref>
+
+<v8:DeletionMark>false</v8:DeletionMark>
+
+<v8:Parent xsi:type="v8:CatalogRef.Сотрудники">b9a73497-8d90-11e6-8b8a-00265ea2eb57</v8:Parent>
+
+<v8:Code>000000002</v8:Code>
+
+<v8:Description>Петрунина</v8:Description>
+
+<v8:ДатаРождения>1981-03-01T00:00:00</v8:ДатаРождения>
+
+</v8:CatalogObject.Сотрудники>
+
+
+-<v8:CatalogObject.Сотрудники>
+
+<v8:IsFolder>true</v8:IsFolder>
+
+<v8:Ref xsi:type="v8:CatalogRef.Сотрудники">b9a73497-8d90-11e6-8b8a-00265ea2eb57</v8:Ref>
+
+<v8:DeletionMark>false</v8:DeletionMark>
+
+<v8:Parent xsi:type="v8:CatalogRef.Сотрудники">00000000-0000-0000-0000-000000000000</v8:Parent>
+
+<v8:Code>000000003</v8:Code>
+
+<v8:Description>Продавцы</v8:Description>
+
+</v8:CatalogObject.Сотрудники>
+
+
+-<v8:CatalogObject.Сотрудники>
+
+<v8:IsFolder>true</v8:IsFolder>
+
+<v8:Ref xsi:type="v8:CatalogRef.Сотрудники">b9a73498-8d90-11e6-8b8a-00265ea2eb57</v8:Ref>
+
+<v8:DeletionMark>false</v8:DeletionMark>
+
+<v8:Parent xsi:type="v8:CatalogRef.Сотрудники">00000000-0000-0000-0000-000000000000</v8:Parent>
+
+<v8:Code>000000004</v8:Code>
+
+<v8:Description>Операторы</v8:Description>
+
+</v8:CatalogObject.Сотрудники>
+
+
+-<v8:CatalogObject.Сотрудники>
+
+<v8:IsFolder>false</v8:IsFolder>
+
+<v8:Ref xsi:type="v8:CatalogRef.Сотрудники">b9a73499-8d90-11e6-8b8a-00265ea2eb57</v8:Ref>
+
+<v8:DeletionMark>false</v8:DeletionMark>
+
+<v8:Parent xsi:type="v8:CatalogRef.Сотрудники">b9a73498-8d90-11e6-8b8a-00265ea2eb57</v8:Parent>
+
+<v8:Code>000000005</v8:Code>
+
+<v8:Description>Капустина</v8:Description>
+
+<v8:ДатаРождения>0001-01-01T00:00:00</v8:ДатаРождения>
+
+</v8:CatalogObject.Сотрудники>
+
+</V8Exch:Data>
+
+<PredefinedData/>
+
+</V8Exch:_1CV8DtUD>
